@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Learning italian for Kids</string>
+    <string name="textview">Numbers</string>
+    <string name="textview2">Family</string>
+    <string name="textview3">Colors</string>
+    <string name="textview4">Phrases</string>
+
+</resources>
